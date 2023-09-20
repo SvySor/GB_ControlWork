@@ -1,0 +1,9 @@
+Dog1
+Dog2
+Dog3
+Cat1
+Cat2
+Cat3
+Hamster1
+Hamster2
+Hamster3
